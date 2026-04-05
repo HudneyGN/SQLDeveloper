@@ -24,15 +24,15 @@ Este projeto simula um ambiente corporativo completo utilizando **Oracle SQL**, 
 ---
 
 ## 🏗️ Arquitetura do Projeto
-📦 oracle-sql-project
-┣ 📂 scripts
-┃ ┗ 📜 banco.sql
-┣ 📂 imagens
-┃ ┣ 📸 tablespace.png
-┃ ┣ 📸 select.png
-┃ ┣ 📸 auditoria.png
-┃ ┗ 📸 relatorio.png
-┗ 📜 README.md
+📦 oracle-sql-project<br>
+┣ 📂 scripts<br>
+┃ ┗ 📜 banco.sql<br>
+┣ 📂 imagens<br>
+┃ ┣ 📸 tablespace.png<br>
+┃ ┣ 📸 select.png<br>
+┃ ┣ 📸 auditoria.png<br>
+┃ ┗ 📸 relatorio.png<br>
+┗ 📜 README.md<br>
 
 
 ---
